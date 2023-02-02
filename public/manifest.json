@@ -1,0 +1,7 @@
+{
+    "name": "FirebaseChat",
+    "short_name": "FirebaseChat",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "portrait"
+}
