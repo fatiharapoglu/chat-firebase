@@ -1,9 +1,11 @@
-# FirebaseChat (BaaS Project)
+# FirebaseChat
 
-Created with JS and Firebase.
+Created with **JavaScript** and **Firebase**.
 
 Tutorial from [Firebase](https://firebase.google.com/)
 
-[Click for live preview](https://chat-firebase-2c12e.web.app/)
+⮕ [Live preview](https://chat-firebase-2c12e.web.app/)
 
-![RPS](readme.png)
+## How It Looks
+
+![ss](readme.png)
